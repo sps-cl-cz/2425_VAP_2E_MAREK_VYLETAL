@@ -1,0 +1,16 @@
+button {
+    background-color: #FF6700;
+    border-radius: 10px;
+}
+
+text {
+    text-align: center;
+    background-color: white;
+    display: block; padding: 10px;
+    margin: 20px auto;
+    width: fit-content;
+}
+
+body {
+    background-color: #FF9505;
+}
